@@ -5,8 +5,10 @@ class PlanetCard extends Component {
   render() {
     const { planetName, planetImage } = this.props;
     return (
-      <div data-testid="planet-card">
-        <img src={ planetImage } alt={ `Planeta ${planetName}` } />
+      <div data-testid="planet-card" className="planet-card">
+        <div className="img-container">
+          <img src={ planetImage } alt={ `Planeta ${planetName}` } />
+        </div>
         <p data-testid="planet-name">{planetName}</p>
       </div>
     );
