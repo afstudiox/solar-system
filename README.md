@@ -25,7 +25,7 @@ Aplicação em React que simula a visualização do Sistema Solar, bem como info
 - [x] - Criar e renderizar os componentes Headers da aplicação.
 - [x] - Criar e renderizar os componentes para os Planetas (containers e cards).
 - [x] - Criar e renderizar os componentes para as Missões (containers e cards).
-- [] - Estilizar a aplicação com Styled Components
+- [ ] - Estilizar a aplicação com Styled Components
 
 
 
