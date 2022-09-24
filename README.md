@@ -2,7 +2,7 @@
 
 ## Sobre
 Aplicação em React que simula a visualização do Sistema Solar, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.<br>
-[Teste a aplicação aqui](https://afstudiox.github.io/player-music)
+[Teste a aplicação aqui](https://afstudiox.github.io/solar-system)
 
 ## Observações
   - Visualizar todos os planetas do sistema solar renderizados na tela.
@@ -25,6 +25,7 @@ Aplicação em React que simula a visualização do Sistema Solar, bem como info
 - [x] - Criar e renderizar os componentes Headers da aplicação.
 - [x] - Criar e renderizar os componentes para os Planetas (containers e cards).
 - [x] - Criar e renderizar os componentes para as Missões (containers e cards).
+- [] - Estilizar a aplicação com Styled Components
 
 
 
@@ -39,6 +40,9 @@ Aplicação em React que simula a visualização do Sistema Solar, bem como info
 ## Como testar localmente:
 
 1. Clone o repositório  `git clone git@github.com:afstudiox/solar-system.git`
+2. Entre na pasta do projeto com o comando cd solar-system
+3. Instale as dependências necessárias para execução da aplicação com o commando npm install ou npm i
+4. Inicie a aplicação com o script npm start
 
 
 ##  Fontes de consultas:
